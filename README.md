@@ -2,7 +2,7 @@
 MATH60024 - Computational Linear Algebra 2021-2022 at Imperial College London
 
 
-Coursework 1 - 81%, Coursework 2 82%, Coursework 3 87%
+Coursework 1 - 81%, Coursework 2 - 82%, Coursework 3 - 87%
 
 Contents can also be found at https://comp-lin-alg.github.io/
 ## 1. Preliminaries
